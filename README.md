@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning 
   
-[Telegram]([https://t.me/smdiabot)
+## [Telegram]([https://t.me/smdiabot)
 
   
 <p align="center">
