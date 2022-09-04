@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @ometh2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<p align="LEFT SIDE">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nh" width="300"/>
-</p>
-<p align="RIGHT SIDE">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nh" width="300"/>
-</p>
+- 👋 Hi, I’m Hyper Ghostᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+
+
+<p align="center">
+<img src="HG Data Base/ezgif.com-gif-maker.gif" width="320"/>
+<p align="center">
 
 
 <!---
