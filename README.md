@@ -6,8 +6,10 @@
 <p align="side">
 
 - 🌱 I’m currently learning 
+  
+[Telegram]([https://t.me/smdiabot)
 
-
+  
 <p align="center">
 <img src="HG Data Base/ezgif.com-gif-maker.gif" width="520"/>
 <p align="center">
