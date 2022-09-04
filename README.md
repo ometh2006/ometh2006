@@ -1,16 +1,22 @@
 - 👋 Hi, I’m Hyper Ghostᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ
+ <p align="center">
+<img src="HG Data Base/ezgif.com-gif-maker.gif" width="420"/>
+<p align="center">
+
 - 👀 I’m interested in programming
 
 <p align="side">
 <img src="HG Data Base/ezgif.com-gif-maker (1).gif" width="320"/>
 <p align="side">
 
-- 🌱 I’m currently learning 
-  
-## [Telegram]([https://t.me/smdiabot)
+🔥🔥👻HYོPོEོRོ GོHོOོSོTོ👻🔥🔥
 
-  
-<p align="center">
-<img src="HG Data Base/ezgif.com-gif-maker.gif" width="520"/>
-<p align="center">
+<b><details><summary>ME ON TELEGRAM</summary>
 
+> [CLICK HEHE!](https://t.me/smdiabot)
+  
+  
+</b>
+</details>
+  
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+HYPER+GHOST.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:Ⓒ+HYPER+GHOST.;▪️◾⬛⬜⬛⬜⬛⬜◻️◽▫️;👻)](https://git.io/typing-svg)
