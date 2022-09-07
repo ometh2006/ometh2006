@@ -11,12 +11,12 @@
 
 🔥🔥👻HYོPོEོRོ GོHོOོSོTོ👻🔥🔥
 
-<b><details><summary>ME ON TELEGRAM</summary>
+> <a href="http://t.me/Music_Finder_ghost_bot"><img src="https://img.shields.io/badge/ME ON TELEGRAM-0000ff?style=for-the-badge&logo=TELEGRAM&logoColor=ff000000&link=http://t.me/Music_Finder_ghost_bot" /><br>
 
-> [CLICK HEHE!](https://t.me/smdiabot)
-  
-  
-</b>
+</details>
+
+> <a href="https://chat.whatsapp.com/EHmXrTzcRZg4rHa2zdxcps"><img src="https://img.shields.io/badge/ME on WHATSAPP-00FF00?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://chat.whatsapp.com/EHmXrTzcRZg4rHa2zdxcps" /><br>
+
 </details>
   
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot-ExtraBold&color=0000ff&lines=HI!!!+I+am+HYPER+GHOST.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:Ⓒ+HYPER+GHOST.;▪️◾⬛⬜⬛🟩⬛⬜◻️◽▫️;Loading......💥;😫😢🤧😑😐😶🙂😚😆🤣)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot-ExtraBold&color=000f&lines=HI!!!+I+am+HYPER+GHOST.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:Ⓒ+HYPER+GHOST.;▪️◾⬛⬜⬛🟩⬛⬜◻️◽▫️;Loading......💥;😫😢🤧😑😐😶🙂😚😆🤣)](https://git.io/typing-svg)
