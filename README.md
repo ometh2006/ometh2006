@@ -9,6 +9,19 @@
 <img src="HG Data Base/ezgif.com-gif-maker (1).gif" width="320"/>
 <p align="side">
 
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ometh2006" alt="ometh2006" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ometh2006&show_icons=true&locale=en" alt="ometh2006" /></p>
+
 🔥🔥👻HYོPོEོRོ GོHོOོSོTོ👻🔥🔥
 
 > <a href="http://t.me/Music_Finder_ghost_bot"><img src="https://img.shields.io/badge/ME ON TELEGRAM-0000ff?style=for-the-badge&logo=TELEGRAM&logoColor=ff000000&link=http://t.me/Music_Finder_ghost_bot" /><br>
