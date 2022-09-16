@@ -35,6 +35,9 @@
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=didot-ExtraBold&color=000f&lines=HI!!!+I+am+HYPER+GHOST.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:Ⓒ+HYPER+GHOST.;▪️◾⬛⬜⬛🟩⬛⬜◻️◽▫️;Loading......💥;😫😢🤧😑😐😶🙂😚😆🤣)](https://git.io/typing-svg)
 
 
-<p align="side">
+<p align=right>
 <img src="HG Data Base/ezgif.com-gif-maker (2).gif" width="320"/>
-<p align="side">
+<p align=right>
+<p align=left>
+<img src="HG Data Base/ezgif.com-gif-maker (3).gif"width320/>
+</p align left>
