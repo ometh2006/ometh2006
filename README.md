@@ -38,6 +38,4 @@
 <p align=right>
 <img src="HG Data Base/ezgif.com-gif-maker (2).gif" width="320"/>
 <p align=right>
-<p align=left>
-<img src="HG Data Base/ezgif.com-gif-maker (3).gif"width320/>
-</p align left>
+
