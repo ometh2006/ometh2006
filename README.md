@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyper Ghostᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ
  <h1 align="center">Hi 👋, I'm Ometh virusara</h1>
-<h3 align="center">A passionate frontend developer from SRILANKA</h3>
+<h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ometh2006&label=Profile%20views&color=0e75b6&style=flat" alt="ometh2006" /> </p>
 
