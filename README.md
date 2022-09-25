@@ -2,7 +2,7 @@
 <p align=center width300>
 <img src='HG Data Base/ezgif.com-gif-maker.gif'>
 <p align =center/>
- <h1 align="center">Hi 👋, I'm Ghostᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
+ <h1 align="center">Hi 👋, I'm Hyper ghost Ghostᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ometh2006&label=Profile%20views&color=0e75b6&style=flat" alt="ometh2006" /> </p>
