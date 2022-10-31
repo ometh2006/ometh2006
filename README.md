@@ -6,7 +6,9 @@
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ometh2006&label=Profile%20views&color=0e75b6&style=flat" alt="ometh2006" /> </p>
-
+<audio controls>
+  <source src="https://www.mboxdrive.com/551a924d-130d-43cb-a1c7-8ee69800f494%20(1).mp3" type="audio/ogg">
+</audio>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ometh2006" alt="ometh2006" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hyper_ghost_ov" target="blank"><img src="https://img.shields.io/twitter/follow/hyper_ghost_ov?logo=twitter&style=for-the-badge" alt="hyper_ghost_ov" /></a> </p>
