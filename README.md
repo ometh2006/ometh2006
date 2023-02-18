@@ -13,7 +13,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ometh2006&" alt="ometh2006" /></p>
+
 
 
 
