@@ -1,6 +1,6 @@
 
 <p align=center width300>
-<img src='HG Data Base/ezgif.com-gif-maker.gif'>
+<img src='https://i.ibb.co/LpZpzn7/r-1-modified.png'>
 <p align =center/>
  <h1 align="center">Hi 👋, Welcome to Rigel Code Room ᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
