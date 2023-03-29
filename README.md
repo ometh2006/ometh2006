@@ -1,6 +1,6 @@
 
 <p align=center width300>
-<img src='https://i.ibb.co/LpZpzn7/r-1-modified.png'>
+<img src='https://i.ibb.co/c8rg2nm/Alpha.png'>
 <p align =center/>
  <h1 align="center">Hi 👋, Welcome to Alpha Soft ᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
