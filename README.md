@@ -9,7 +9,7 @@
 <audio controls>
   <source src="https://www.mboxdrive.com/551a924d-130d-43cb-a1c7-8ee69800f494%20(1).mp3" type="audio/ogg">
 </audio>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ometh2006" alt="ometh2006" /></a> </p>
+
 
 
 
