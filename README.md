@@ -5,7 +5,7 @@
  <h1 align="center">Hi 👋, Welcome to Σ Dav ᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ometh2006&label=Profile%20views&color=0e75b6&style=flat" alt="ometh2006" /> </p>
+
 <audio controls>
   <source src="https://www.mboxdrive.com/551a924d-130d-43cb-a1c7-8ee69800f494%20(1).mp3" type="audio/ogg">
 </audio>
