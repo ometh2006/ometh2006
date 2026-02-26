@@ -1,6 +1,4 @@
 
-<p align=center width300>
-<img src='https://i.ibb.co/vqJXG4s/Dev-3.png'>
 <p align =center/>
  <h1 align="center">Hi 👋, Welcome to Σ Dav ᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
