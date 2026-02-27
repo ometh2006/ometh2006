@@ -5,7 +5,6 @@
 <p align=center>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByZXAxcm5md2IxeXdsb252Mm8yMnJsbnBrZWVhajQ0MHo2aWl6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320"/>
 <p align=center>
-# Hi there, I'm [Your Name]! 👋 
 
 ### 🚀 Open Source Enthusiast
 
@@ -33,4 +32,4 @@ I'm a developer who loves building things that live on the internet. Whether it'
 
 ### 📫 Let's Connect!
 
-[![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)]([[@OMETH_PM_BOT](https://t.me/OMETH_PM_BOT)
+[![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMETH_PM_BOT)
