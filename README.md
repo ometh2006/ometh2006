@@ -21,7 +21,7 @@ I'm a developer who loves building things that live on the internet. Whether it'
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVjcHBuaXN1MWRuNmZiMmUzY2kxNGdzMnRnZDE2NzZzMG5sazZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="320"/>
+
 ---
 
 ### 🔭 Currently Working On
