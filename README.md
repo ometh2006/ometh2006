@@ -32,7 +32,6 @@ I'm a developer who loves building things that live on the internet. Whether it'
 
 *"Whether it's a sleek web app or a complex backend system — I'm all about clean code and creative problem-solving."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
 
