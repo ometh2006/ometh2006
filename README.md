@@ -1,6 +1,14 @@
+<div align="center">
 
-<p align =center/>
- <h1 align="center">Hi 👋, Welcome to Σ Dav ᴼᴹᴱᵀᴴ ᵛᴵᴿᵁˢᴬᴿᴬ</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%CE%A3%20Dev&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ometh2006%20%E2%80%A2%20Building%20the%20internet%2C%20one%20commit%20at%20a%20time&descSize=15&descAlignY=58&descColor=aaaaff"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=640&height=45&lines=🌐+Full-Stack+Developer+%7C+Open+Source+Enthusiast;🧠+Building+AcadeMind+—+Study+Smarter;🛡+Crafting+Σ+VPN+—+Privacy+First;⚡+Clean+Code+%2B+Creative+Problem-Solving;🚀+Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
+
+</div>
 
 <p align=center>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByZXAxcm5md2IxeXdsb252Mm8yMnJsbnBrZWVhajQ0MHo2aWl6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320"/>
@@ -10,13 +18,6 @@
 
 I'm a developer who loves building things that live on the internet. Whether it's a sleek web app or a complex backend system, I'm all about clean code and creative problem-solving.
 ---
-
-### 🛠️ My Tech Stack
-
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=Kotlin&logoColor=blueviolet)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -36,29 +37,8 @@ I'm a developer who loves building things that live on the internet. Whether it'
 </div>
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%CE%A3%20Dev&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ometh2006%20%E2%80%A2%20Building%20the%20internet%2C%20one%20commit%20at%20a%20time&descSize=15&descAlignY=58&descColor=aaaaff"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=640&height=45&lines=🌐+Full-Stack+Developer+%7C+Open+Source+Enthusiast;🧠+Building+AcadeMind+—+Study+Smarter;🛡+Crafting+Σ+VPN+—+Privacy+First;⚡+Clean+Code+%2B+Creative+Problem-Solving;🚀+Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ometh2006&color=7C3AED&style=flat-square&label=👁+Profile+Views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ometh2006?label=Followers&style=flat-square&color=7C3AED&logo=github)](https://github.com/ometh2006?tab=followers)
-&nbsp;&nbsp;
-![Repos](https://img.shields.io/badge/dynamic/json?color=7C3AED&label=Public+Repos&query=public_repos&url=https://api.github.com/users/ometh2006&style=flat-square&logo=github)
-
-</div>
 
 ---
 
