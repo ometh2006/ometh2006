@@ -42,7 +42,6 @@ I'm a developer who loves building things that live on the internet. Whether it'
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 ## `> whoami`
 
